@@ -1,0 +1,10 @@
+Linguagem/Ambiente,Tempo Médio de Execução,Mais Rápido que Python
+Python,"15,045",N/A
+PyPy,"2,368",6.35
+Node.js,"1,083",13.89
+rust ,"0,862","17,45"
+C (GCC),"0,697",21.59
+Go (compilado),"0,437",34.40
+Java,"0,401",37.58
+C (LLVM),"0,384",39.23
+C++ (LLVM),"0,303",49.67
